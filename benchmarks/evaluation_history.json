@@ -1,0 +1,10 @@
+[
+    {
+        "version": "v1",
+        "date": "2026-10-06",
+        "detection_precision": 0.82,
+        "event_f1": 0.76,
+        "temporal_accuracy": 0.80,
+        "timestamp_mae": 1.42
+    }
+]

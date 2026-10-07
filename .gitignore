@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Generated evidence/media
+evidence/clips/
+
+# Model files
+*.pt
+*.onnx
+*.engine
+
+# Temporary
+tmp/
+temp/
+downloads/
+cache/
+*.tmp
+
+# Logs
+*.log
+
+# Generated reports
+reports/generated/
+
+# Generated PDF reports
+reports/*.pdf

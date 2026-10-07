@@ -1,0 +1,10 @@
+{
+    "events": [
+        {
+            "type": "APPEAR",
+            "track_label": "circle",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ]
+}
